@@ -1,0 +1,40 @@
+h1{
+    font-size:60px;
+    font-family: 'Great Vibes', cursive;
+    color:#056D0F;
+    text-align:left;
+}
+
+h2 {
+    font-family: 'Montserrat Alternates', sans-serif;
+    text-align: left;
+}
+
+.menu {
+    text-align: left;
+}
+
+a:link{
+        text-decoration:none;
+}
+
+a:visited{
+    color:purple;
+    text-decoration:none;
+}
+
+a:hover {
+    text-decoration:underline;
+}
+
+a{
+    color:#056D0F;
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+
+body {
+    background-image:url('../img/IMG_5636.jpg');
+   background-size: 100%;
+    
+
+}
