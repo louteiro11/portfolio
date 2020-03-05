@@ -1,0 +1,11 @@
+form{
+  background-color:crimson;
+  color:white;
+  text-align:center
+}
+label,input{
+  display:block;
+  width:100%;
+  margin:0auto;
+  
+}
